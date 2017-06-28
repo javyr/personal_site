@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-I love data science and R. My hobby is playing baseball.
+- I love data science and R. 
+
+![Infographic](https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png)
+
+- My hobby is playing baseball.
+
+![Infographic](http://content.sportslogos.net/logos/54/3637/full/1720_miami_marlins-primary-2017.png)
