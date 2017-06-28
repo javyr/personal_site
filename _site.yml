@@ -8,4 +8,4 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Projects"
-      href: projects.html
+      href: Introduction_to_R.html
