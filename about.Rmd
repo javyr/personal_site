@@ -1,11 +1,66 @@
 ---
-title: "About Me"
+title: "Accomplishments"
 ---
 
-- I love data science and R. 
+Below are some of my accomplishments in my undergraduate and graduate studies. The corresponding files can be viewed by right clicking on their associated links and choosing "Open link in new tab".
 
-![Infographic](https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png)
+## Publication
 
-- My hobby is playing baseball.
+Quesada, D.; Rojas, J.; Alonso, A. Braess Paradox in Electrical Networks &ndash; When more might mean less. *In Proceedings of the MOL2NET, International Conference on Multidisciplinary Sciences*, 25 December 2016-25 January 2017; Sciforum Electronic Conference Series, Vol. 2, 2016 ; doi: [10.3390/mol2net-02-03836](http://sciforum.net/conference/mol2net-02/paper/3836)
 
-![Infographic](http://content.sportslogos.net/logos/54/3637/full/1720_miami_marlins-primary-2017.png)
+[Braess Paradox PPT](file:///E:/personal_site/BraessParadox-JRojas.pdf)
+
+[Braess Paradox Poster](file:///E:/personal_site/JRojas-AAlonso-BraessParadox-Networks.pdf)
+
+## NASA Internship
+
+The area of emphasis for this job was for me to develop products that support [NASA's Centennial Challenges Program's](https://www.nasa.gov/directorates/spacetech/centennial_challenges/index.html) technical development needs by creating a comprehensive communications strategy, maintaining a compelling web presence, and public engagement activities to recruit teams. This project presented a comprehensive approach to promoting the Cube Quest Challenge, including website improvements, technology development and transfer, commercial applications, social media, exhibits, public engagement, creating a new-competitor package, and post-challenge resources.
+
+[NASA Technical Paper](file:///E:/personal_site/Rojas_Javier_ZP30_Technical%20Paper.pdf)
+
+[NASA Poster](file:///E:/personal_site/ZP30_Rojas_Javier_Poster.pdf)
+
+## Projects/Coursework
+
+Here are some projects/coursework that I completed for the following graduate courses in the [Master of Science in Big Data Analytics](https://www.stu.edu/science/Programs/MS-Big-Data-Analytics) program at Saint Thomas University:
+
+#### **MAT 502 Statistical Methods**
+
+- An advanced course in statistical methods aimed at mastering techniques and R-software of widespread use in science and technology. Topics include: hypothesis testing, linear regression, ANOVA, multiple linear regression methods.
+
+[The Four Factors: crucial metrics in predicting wins or losses in a NBA game](file:///E:/personal_site/502_Final_Project_Rojas%20(2).html)
+
+#### **CIS 544 Data Mining and Machine Learning**
+
+- This course introduces the basic concepts and fundamental algorithms in data mining and machine learning. A number of well-defined data mining tasks such as classification, estimation, affinity grouping and clustering, prediction, and data visualization are discussed. Key topics such as predictive modeling and predictive analytics, linear discriminants, neural networks, decision trees, support vector machines, unsupervised learning, reinforcement learning and others will be discussed in detail. Design and implementation algorithms will also be covered. Students will use data mining software extensively throughout the semester.
+
+[Predicting Student Performance in Secondary Education (High School)](file:///E:/personal_site/544_Final_Project_Rojas.pdf)
+
+#### **MAT 602 Applied Machine Learning**
+
+- A course aimed at introducing mathematical foundations of machine learning, data mining, and statistical pattern recognition and their implementation on Python language. Topics include: supervised learning (parametric and non-parametric algorithms), support vector machines; neural networks; unsupervised learning (clustering, dimensionality reduction, recommender systems and deep learning), best 238 practices in machine learning (bias versus variance theory) and foundations of artificial and augmented intelligence. 
+
+[Predicting Early Hospital Readmissions](file:///E:/personal_site/MAT_602_Final_project_Rojas.pdf)
+
+#### **CIS 546 Data Visualization**
+
+- This course will be a lecture/laboratory based class to introduce the graduate students to basic methodologies in data analytics and visualization. This 6 module course will include basic techniques and methodologies such as data administration, statistical analysis, algorithm design, results presentation and visualization. This course will prepare the student for future courses as well as internship courses at the 600 level. 
+
+[Improving Visuals](file:///E:/personal_site/CIS_546_HW_4_Rojas.html)
+
+#### **CIS 627 Big Data Analytics Capstone**
+
+- The capstone course provides an opportunity for students to integrate and apply the analytics skills and knowledge learned in the classroom to real world data. Students work in teams on a large-scale analytics project. At the end of the course, students submit a report summarizing their analyses and study outcomes, and present results to the class. 
+
+[Electronic Pediatric Early Warning Score](file:///E:/personal_site/Javier_Rojas_Final_Project_Presentation.html#(1))
+
+## R Tutorials
+
+The following are R tutorials that I created meanwhile serving as a graduate assistant at Saint Thomas University.
+
+[Introduction to R](file:///E:/personal_site/Introduction_to_R.html)
+
+[Data Visualization Using R](file:///E:/personal_site/Viz_in_R.html)
+
+[Intro to RMarkdown](file:///E:/personal_site/Intro_to_RMarkdown.html)
+

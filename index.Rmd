@@ -1,5 +1,26 @@
 ---
-title: "Javy's Website"
+title: "About Me"
 ---
 
-Today's date is 6/27/2017
+<center>![](IMG_3469.jpg)
+</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Javier Rojas, and I am an American student who has completed his Associate Degree in Accounting at MDC Honors Inter-American Campus, and his Bachelor of Science Degree in Mathematics with Minor in Computer Science at St. Thomas University. Currently, I am a recent Graduate student who completed his Master of Science in Big Data Analytics at St. Thomas University, and my intentions are to become a data scientist and analyst for an organization that generates and consumes large amounts of data to solve their corresponding big data problems.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before entering my first semester of graduate coursework, in Summer 2016, I interned at NASA's Marshall Space Flight Center in Huntsville, Al where the general task of the project I completed alongside my NASA mentor was to develop products that support Centennial Challenges' technical development needs by creating a comprehensive communications strategy, maintaining a compelling web presence, and public engagement activities to recruit teams. Meanwhile completing my Master's degree, I worked as a graduate assistant for St. Thomas University's Office of Institutional Research & Effectiveness where I contributed to the development of research/conference proposals to support STU's status as a Hispanic Serving Institution (HSI); created institutional enrollment dashboards using Power BI software; prepared annotated bibliographies on topics of interest to the STU executive leadership team; conducted surveys of current students and STU alumni using Survey Monkey software, and provided logistical support for the annual STU Fact Book. Afterwards, I was transferred to the School of Science, where I provided introductory tutorials on how to work and setup the R programming language in your computer, how to create data visualizations in R, how to work with R's ggplot package and how to create reproducible reports in R with R Markdown.
+
+**Contact Information**
+
+[Javier F. Rojas, M.S. in Big Data Analytics](https://www.linkedin.com/in/javier17/)
+
+School of Science
+
+St. Thomas University
+
+16401 NW 37 Avenue
+
+Miami Gardens, FL 33054
+
+Cellphone: 786.447.7663
+
+Email: <jrojas@stu.edu> | <javyrojas@comcast.net>

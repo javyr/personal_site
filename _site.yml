@@ -1,11 +1,14 @@
 name: "javys-website"
 output_dir: "."
 navbar:
-  title: "Javys Website"
+  title: "Javier Rojas"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Accomplishments"
       href: about.html
-    - text: "Projects"
-      href: Introduction_to_R.html
+      
+output:
+  html_document:
+    theme: flatly
+    
